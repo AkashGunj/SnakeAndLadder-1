@@ -1,0 +1,6 @@
+package snakesandladders;
+
+class LadderTest {
+
+
+}
